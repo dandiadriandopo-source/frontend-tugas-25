@@ -1,0 +1,58 @@
+function Kerjasama({n1, n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47}){
+    return(
+        <div>
+            <h1>47 Negara Berpartisipasi!</h1>
+            <ol>
+                <li>{n1}</li>
+                <li>{n2}</li>
+                <li>{n3}</li>
+                <li>{n4}</li>
+                <li>{n5}</li>
+                <li>{n6}</li>
+                <li>{n7}</li>
+                <li>{n8}</li>
+                <li>{n9}</li>
+                <li>{n10}</li>
+                <li>{n11}</li>
+                <li>{n12}</li>
+                <li>{n13}</li>
+                <li>{n14}</li>
+                <li>{n15}</li>
+                <li>{n16}</li>
+                <li>{n17}</li>
+                <li>{n18}</li>
+                <li>{n19}</li>
+                <li>{n20}</li>
+                <li>{n21}</li>
+                <li>{n22}</li>
+                <li>{n23}</li>
+                <li>{n24}</li>
+                <li>{n25}</li>
+                <li>{n26}</li>
+                <li>{n27}</li>
+                <li>{n28}</li>
+                <li>{n29}</li>
+                <li>{n30}</li>
+                <li>{n31}</li>
+                <li>{n32}</li>
+                <li>{n33}</li>
+                <li>{n34}</li>
+                <li>{n35}</li>
+                <li>{n36}</li>
+                <li>{n37}</li>
+                <li>{n38}</li>
+                <li>{n39}</li>
+                <li>{n40}</li>
+                <li>{n41}</li>
+                <li>{n42}</li>
+                <li>{n43}</li>
+                <li>{n44}</li>
+                <li>{n45}</li>
+                <li>{n46}</li>
+                <li>{n47}</li>
+            </ol>
+        </div>
+    )
+}
+
+export default Kerjasama
